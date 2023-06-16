@@ -3,10 +3,13 @@
     justify-content: space-around;
 }
 
-.container .box {
-    border: none;
+.container2 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-direction: column;
 }
 
-h1, h2 {
+h1, h2, h3 {
     text-align: center;
 }
